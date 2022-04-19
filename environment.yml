@@ -1,0 +1,10 @@
+name: easygo
+channels:
+    - conda-forge
+    - defaults
+    - gimli
+dependencies:
+    - python
+    - pandas
+    - pygimli=1.2.4
+    - gempy
