@@ -14,3 +14,4 @@ dependencies:
     - mkl
     - mkl-service
     - scipy
+    - jupyterlab
