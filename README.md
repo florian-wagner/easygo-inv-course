@@ -17,7 +17,6 @@ Instructors:
 | _15:30-16:00_ | _Break_                                        |
 | 16:00-17:30   | The open-source geoscience software stack      |
 
-
 ## Setup instructions
 
 > ### Quick setup for experienced users
@@ -27,10 +26,10 @@ Instructors:
 > ```bash
 > git clone https://github.com/florian-wagner/easygo-inv-course
 > cd easygo-inv-course
-> conda env create
+> conda install -c conda-forge mamba
+> mamba env create
 > conda activate easygo
-> python -c "import pygimli; pygimli.test(show=False, onlydoctests=True)"
-> jupyter lab
+> python3 test_installation.py
 > ```
 
 To start the tutorial setup, please follow the next steps:
@@ -39,7 +38,7 @@ To start the tutorial setup, please follow the next steps:
 
 There are a few things you'll need to follow the tutorial:
 
-1. A working Python installation (Anaconda or Miniconda). For details on how to install Anaconda, we refer to: https://docs.anaconda.com/anaconda/install/
+1. A working Python installation (Anaconda or Miniconda). For details on how to install Anaconda, we refer to: <https://docs.anaconda.com/anaconda/install/>
 2. A modern web browser that works with JupyterLab or Jupyter Notebook (Internet explorer will not work)
 3. Intermediate experience in Python programming (Python, numpy, matplotlib, jupyter)
 
@@ -53,7 +52,8 @@ There are a few things you'll need to follow the tutorial:
 1. Open a terminal (Linux & Mac) or the Anaconda Powershell Prompt (Windows). Navigate to the folder from step 2 (using the `cd` command) and type:
 
 ```
-conda env create
+conda install -c conda-forge mamba
+mamba env create
 ```
 
 2. Activate the environment in the terminal by typing:
@@ -65,7 +65,7 @@ conda activate easygo
 3. To test if everything works correctly you can do the following:
 
 ```
-python -c "import pygimli; pygimli.test(show=False, onlydoctests=True)"
+python3 test_installation.py
 ```
 
 ### Step 4: Start JupyterLab
@@ -73,5 +73,4 @@ python -c "import pygimli; pygimli.test(show=False, onlydoctests=True)"
 1. **Windows users:** Make sure you set a default browser that is **not Internet Explorer**.
 2. Activate the conda environment: `conda activate easygo`
 3. Start JupyterLab: `jupyter lab`
-4. Jupyter should open in your default web browser. We'll start from here in the
-   tutorial and create a new notebook together.
+4. Jupyter should open in your default web browser.

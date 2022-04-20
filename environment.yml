@@ -8,3 +8,8 @@ dependencies:
     - pandas
     - pygimli=1.2.4
     - gempy
+    - gemgis
+    - pymc3
+    - theano-pymc
+    - mkl
+    - mkl-service
