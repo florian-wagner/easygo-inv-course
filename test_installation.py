@@ -3,7 +3,7 @@ import pygimli as pg
 
 print("pygimli version:", pg.__version__)
 
-pkgs = ["gempy", "gemgis", "pymc3"]
+pkgs = ["gempy", "gemgis", "pymc3", "scipy"]
 
 for pkg in pkgs:
     try:

@@ -13,3 +13,4 @@ dependencies:
     - theano-pymc
     - mkl
     - mkl-service
+    - scipy
