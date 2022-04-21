@@ -11,13 +11,14 @@ Instructors:
 [Alex Juestel](https://github.com/AlexanderJuestel),
 [Nils Chudalla](https://github.com/NilsChudalla)
 
-| **Time**      | **Content**                                    | **Instructor(s)**                                                           |
-|---------------|------------------------------------------------|-----------------------------------------------------------------------------|
-| 11:00-12:30   | Inverse theory - The deterministic perspective | Florian Wagner                                                              |
-| _12:30-14:00_ | _Lunch break_                                  | -                                                                           |
-| 14:00-15:30   | Inverse theory - The probabilistic perspective | Florian Wellmann                                                            |
-| _15:30-16:00_ | _Break_                                        | -                                                                           |
-| 16:00-18:00   | The open-source geoscience software stack      | Jan Niederau, Alex Juestel, Nils Chudalla, Florian Wellmann, Florian Wagner |
+| **Time**      | **Content**                                      | **Instructor(s)**                                                           |
+|---------------|--------------------------------------------------|-----------------------------------------------------------------------------|
+| 10:00 - 11:00 | Introduction to research by RWTH PIs             | Florian Wellmann, Florian Wagner, Florian Amann, Peter Kukla                |
+| 11:00 - 12:30   | Inverse theory - The deterministic perspective | Florian Wagner                                                              |
+| _12:30 - 14:00_ | _Lunch break_                                  | -                                                                           |
+| 14:00 - 15:30   | Inverse theory - The probabilistic perspective | Florian Wellmann                                                            |
+| _15:30 - 16:00_ | _Break_                                        | -                                                                           |
+| 16:00 - 18:00   | The open-source geoscience software stack      | Jan Niederau, Alex Juestel, Nils Chudalla, Florian Wellmann, Florian Wagner |
 
 ## Setup instructions
 
