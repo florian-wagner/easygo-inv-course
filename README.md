@@ -4,13 +4,6 @@
 <img src="https://easygo-itn.eu/wp-content/uploads/2021/04/logo.png" width=40%>
 </div>
 
-Instructors:
-[Florian Wagner](https://github.com/florian-wagner),
-[Florian Wellmann](https://github.com/flohorovicic),
-[Jan Niederau](https://github.com/japhiolite),
-[Alex Juestel](https://github.com/AlexanderJuestel),
-[Nils Chudalla](https://github.com/NilsChudalla)
-
 | **Time**      | **Content**                                      | **Instructor(s)**                                                           |
 |---------------|--------------------------------------------------|-----------------------------------------------------------------------------|
 | 10:00 - 11:00 | Introduction to research by RWTH PIs             | Florian Wellmann, Florian Wagner, Florian Amann, Peter Kukla                |
