@@ -17,7 +17,7 @@ Instructors:
 | _12:30-14:00_ | _Lunch break_                                  | -                                                                           |
 | 14:00-15:30   | Inverse theory - The probabilistic perspective | Florian Wellmann                                                            |
 | _15:30-16:00_ | _Break_                                        | -                                                                           |
-| 16:00-17:30   | The open-source geoscience software stack      | Jan Niederau, Alex Juestel, Nils Chudalla, Florian Wellmann, Florian Wagner |
+| 16:00-18:00   | The open-source geoscience software stack      | Jan Niederau, Alex Juestel, Nils Chudalla, Florian Wellmann, Florian Wagner |
 
 ## Setup instructions
 
