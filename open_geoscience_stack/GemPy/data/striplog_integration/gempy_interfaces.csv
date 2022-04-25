@@ -1,0 +1,20 @@
+X,Y,Z,formation
+0,0,-50.0,overburden
+0,0,-75.0,shale
+0,0,-100.0,silty sandstone
+0,0,-120.0,sandstone
+0,0,-121.0,limestone
+100,100,-50.0,overburden
+100,100,-80.0,shale
+100,100,-100.0,silty sandstone
+100,100,-130.0,sandstone
+100,100,-131.0,limestone
+200,0,-50.0,overburden
+200,0,-75.0,shale
+200,0,-110.0,sandstone
+200,0,-111.0,limestone
+120,0,-50.0,overburden
+120,0,-75.0,shale
+120,0,-100.0,silty sandstone
+120,0,-130.0,sandstone
+120,0,-131.0,limestone
